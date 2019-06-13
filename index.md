@@ -4,7 +4,7 @@ layout: default
 
 # CCDC Documentation 
 
-Some stuff we have picked up.
+Some stuff we have picked up over the years.
 
 [News Feeds](./news.html).
 
