@@ -26,3 +26,6 @@ Some stuff we have picked up over the years.
    ^- you will need to be loged in to github 
 
 Feel free to add more.
+
+
+To add to this page go to github (in the top right corner) and edit the markdown file index.md
