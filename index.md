@@ -22,4 +22,7 @@ Some stuff we have picked up over the years.
 
 [Links](./links.html).
 
+[more info from years past](https://github.com/wwucyber/ccdc-documentation)
+   ^- you will need to be loged in to github 
+
 Feel free to add more.
