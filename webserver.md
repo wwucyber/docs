@@ -2,7 +2,7 @@
 layout: default
 ---
 
-- How To Install WordPress with LAMP on Ubuntu 16.04 | DigitalOcean
+- How To Install WordPress with LAMP on Ubuntu 16.04 DigitalOcean
   
    https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-lamp-on-ubuntu-16-04
   
